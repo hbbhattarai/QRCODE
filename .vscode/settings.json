@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPathWindows": "C:\\Users\\Hem Bdr. Bhattarai\\AppData\\Local\\Android\\Sdk\\\\emulator"
+}
